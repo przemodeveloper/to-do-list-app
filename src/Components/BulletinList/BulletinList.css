@@ -1,0 +1,14 @@
+.inner-container {
+    margin: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+button {
+    margin-top: 20px;
+}
